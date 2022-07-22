@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Stop me if you can - kills task7
+
+pkill -f 7-highlander
